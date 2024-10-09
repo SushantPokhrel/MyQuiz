@@ -91,25 +91,7 @@ const sports = [
       { text: "Italy", correct: true },
     ],
   },
-  {
-    title:
-      "11. Which of the following cricketer has the most number of centuries to his name?",
-    answers: [
-      { text: "Kohli", correct: false },
-      { text: "Sachin", correct: true },
-      { text: "Ponting", correct: false },
-      { text: "Bumrah", correct: false },
-    ],
-  },
-  {
-    title: "12. Which player has the most number of trophies in football?",
-    answers: [
-      { text: "Messi", correct: true },
-      { text: "C. Ronaldo", correct: false },
-      { text: "Dani Alves", correct: false },
-      { text: "Pele", correct: false },
-    ],
-  },
+ 
 ];
 const compScience = [
   {
